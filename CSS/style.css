@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#main {
+	color:#FFDAF5;
+}
+	
+.column1of3	{
+	background: #C32E9A;
+	float: left;
+	width:	460px;
+	margin:	20px;
+}
+
+.column2of3	{
+	float: left;
+	width:	220px;
+	margin:	20px;
+	background: #C32E9A;
+}
+
+.column3of3 {
+	float: left;
+	width:	220px;
+	margin:	20px;
+	background: #C32E9A;
+}
+
+
+.column4of7	{
+	clear:left;
+	background: #C32E9A;
+	float: left;
+	width:	220px;
+	margin:	18px;
+}
+
+.column5of7	{
+	float: left;
+	width:	220px;
+	margin:	18px;
+	background: #C32E9A;
+}
+
+.column6of7 {
+	float: left;
+	width:	220px;
+	margin:	18px;
+	background: #C32E9A;
+}
+
+.column7of7 {
+	
+	float: left;
+	width:	220px;
+	margin:	18px;
+	background: #C32E9A;
+}
